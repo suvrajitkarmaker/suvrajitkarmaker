@@ -10,7 +10,7 @@
 
 
 
-🔭 **I’m currently working on**  Node.js, React.js, Salesforce
+🔭 **I’m currently working on** Go, Node.js, React.js, Salesforce
 
 🌱 **I’m currently learning** DevOps
 
