@@ -4,7 +4,7 @@
 
 * I am a Software Engineer
 * I have  2+ years of experience designing, developing, and managing complex web applications and internal frameworks.
-* Proficient in Javascript, C++, Python, Apex, Data Structure, Algorithm
+* Proficient in C/C++, Node.js, Go
 * Passionate about Backend Engineering, Performance optimization, and technical discussion
 * I learn and build everything that excites me from cooking food to building large scale application
 
